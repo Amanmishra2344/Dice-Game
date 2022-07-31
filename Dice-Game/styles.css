@@ -1,0 +1,38 @@
+/* font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mouse Memoirs', sans-serif; */
+body{
+    background-color:#393E46;
+    text-align: center;
+}
+footer{
+    color: #EEEEEE;
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 8rem;
+    margin: 20px auto 30px;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+img{
+    width: 80%;
+}
+.dice{
+    display: inline-block;
+}
+.btn{
+    font-weight: bold;
+    size: 4rem;
+    margin: 20px auto;
+    width: 7.5%;
+    height: 4%;
+    background-color: azure;
+}
